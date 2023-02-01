@@ -49,7 +49,7 @@ If you use pycharm the next steps are taken to add the interpeter.
 was created and chose the python.exe file <br>
 
 
-![img_2.png](./img_2.png)
+![img_2.png](tutorial_images/img_2.png)
 
 ###Harvester initialization 
 After the interpeter is added and loaded in it is time to try some coding.
@@ -143,7 +143,7 @@ the camera is not loaded in yet. simply wait a gew seconds and retry to run the 
 <br>
 
 when the script runs the following output should return
-![img_3.png](./img_3.png)
+![img_3.png](tutorial_images/img_3.png)
 <br>
 if this is the output then the code works fine so far if not try the error sheet to resolve the issue.
 next step is to start acquiring images
