@@ -41,7 +41,7 @@ If you use pycharm the next steps are taken to add the interpeter.
 - Then press on "show all"
 
 
-![img.png](./img.png)
+![img.png](tutorial_images/img.png)
 
 - the next step is to klick on the + sign right above to add a new interpeter. <br>
 - next step is to go to Conda environment and klick on existing environment. <br>
