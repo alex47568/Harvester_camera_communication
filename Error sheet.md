@@ -58,7 +58,7 @@ code to change: ```with tf.gfile.Gfile(path, 'r') as fid:```
 
 From generate_tfrecord.py replace on line 61 and 62: 
 
-![img_4.png](img_4.png)
+![img_4.png](tutorial_images/img_4.png)
 
 With:
 ```label_map_dict = label_map_util.get_label_map_dict(args.labels_path)```
