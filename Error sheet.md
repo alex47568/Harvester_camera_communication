@@ -64,7 +64,7 @@ With:
 ```label_map_dict = label_map_util.get_label_map_dict(args.labels_path)```
 
 result should be:  
-![img_5.png](img_5.png)
+![img_5.png](tutorial_images/img_5.png)
 
 the two lines(61 & 62) with the # can be deleted or commented out
 
